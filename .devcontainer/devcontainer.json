@@ -1,7 +1,6 @@
 {
     "name": "dev",
     "dockerFile": "Dockerfile",
-    "postCreateCommand": "./.devcontainer/postCreateCommand.sh",
     "extensions": [
         "akamud.vscode-theme-onelight",
         "dracula-theme.theme-dracula",
